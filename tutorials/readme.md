@@ -1,4 +1,4 @@
-# This folder contain useful notes and coding exercises related to Audio Signal Processing for Machine Learning/ Deep Learning
+# This folder contains useful notes and coding exercises related to Audio Signal Processing for Machine Learning/ Deep Learning
 
 ## check out the original work by https://github.com/musikalkemist/AudioSignalProcessingForML
 
